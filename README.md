@@ -22,6 +22,9 @@
   
 </p>
 
+### An example of test automation project (Web, API and mobile tests):
+
+### Short summary:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Violetta0709&theme=solarized_dark)
