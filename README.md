@@ -6,12 +6,14 @@
 <p  align="left">
   <code><img width="5%" title="Java" src="./images/Java.svg"></code>
   <code><img width="5%" title="Selenide" src="./images/Selenide.svg"></code>
+  <code><img width="5%" title="Selenium" src="./images/selenium.png"></code>
   <code><img width="5%" title="Gradle" src="./images/Gradle.svg"></code>
   <code><img width="5%" title="Intellij Idea" src="./images/Idea.svg"></code>
   <code><img width="5%" title="GitHub" src="./images/GitHub.svg"></code>
   <code><img width="5%" title="Junit5" src="./images/Junit5.svg"></code>
   <code><img width="5%" title="Selenoid" src="./images/Selenoid.svg"></code>
   <code><img width="5%" title="Rest Assured" src="./images/RestAssured.svg"></code>
+  <code><img width="5%" title="Docker" src="./images/docker.png"></code>
   <code><img width="5%" title="Browserstack" src="./images/Browserstack.svg"></code>
   <code><img width="5%" title="Android Studio" src="./images/Android-studio.svg"></code>
   <code><img width="5%" title="Appium" src="./images/Appium.svg"></code>
