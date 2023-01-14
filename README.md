@@ -30,7 +30,25 @@
 
 ### An example of test automation project (Web, API and mobile tests):
 
-### Short summary:
+Key facts about the project:
+- [x] `Page Object` with steps using `Chain of Invocations`
+- [x] Test data generating with `Faker` library
+- [x] Parametrized tests
+- [x] Parametrized build
+- [x] Different configuration files for test running depending on build parameters
+- [x] Config with `Owner` library
+- [x] Using `Lombok` for models for API tests
+- [x] Objects serialization/deserialization for API requests/responses using `Jackson`
+- [x] Using request/response specifications for API tests
+- [x] Custom Allure listener for API requests/responses logging
+- [x] `Allure TestOps` integration
+- [x] Autotests as test documentation
+- [x] `Github webhooks` on each push to trigger `Jenkins` build
+- [x] `Jira` integration
+- [x] Parallel execution
+
+
+### Some more information:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Violetta0709&theme=solarized_dark)
