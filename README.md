@@ -4,6 +4,17 @@
 ### Hi there! I'm Violetta 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Automation+Engineer)](https://git.io/typing-svg)
 
+### How to reach me:
+  
+  <a href="https://t.me/vetayuzy">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+   <a href="mailto:violetta100100100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+
 ### Tools and technologies:
 <p  align="left">
   <code><img width="5%" title="Java" src="./images/Java.svg"></code>
@@ -48,11 +59,9 @@ Key facts about the projects:
 - [x] Parallel execution
 
 
-### Some more information about me:
+### My stats:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Violetta0709&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Violetta0709&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Violetta0709&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Violetta0709&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Violetta0709&theme=solarized_dark)
 
 
