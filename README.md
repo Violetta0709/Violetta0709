@@ -28,9 +28,9 @@
   
 </p>
 
-### An example of test automation project (Web, API and mobile tests):
+### Examples of test automation projects (Web, API and mobile tests):
 
-Key facts about the project:
+Key facts about the projects:
 - [x] `Page Object` with steps using `Chain of Invocations`
 - [x] Test data generating with `Java Faker` library
 - [x] Parametrized tests
