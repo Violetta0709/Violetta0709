@@ -15,7 +15,7 @@
   <code><img width="5%" title="Rest Assured" src="./images/RestAssured.svg"></code>
   <code><img width="5%" title="Rest Assured" src="./images/postman.svg"></code>
   <code><img width="5%" title="Rest Assured" src="./images/swagger.svg"></code>
-  <code><img width="5%" title="Docker" src="./images/docker.svg"></code>
+  <code><img width="5%" title="Docker" src="./images/docker1.png"></code>
   <code><img width="5%" title="Browserstack" src="./images/Browserstack.svg"></code>
   <code><img width="5%" title="Android Studio" src="./images/Android-studio.svg"></code>
   <code><img width="5%" title="Appium" src="./images/Appium.svg"></code>
