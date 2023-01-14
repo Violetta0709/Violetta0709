@@ -64,4 +64,4 @@ Key facts about the projects:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Violetta0709&theme=solarized_dark)
 
-
+  ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
