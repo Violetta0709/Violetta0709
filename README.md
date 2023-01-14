@@ -1,5 +1,5 @@
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+![](https://media.giphy.com/media/vZu2VmycJ890tP5IdH/giphy.gif)
 
 ### Hi there! I'm Violetta 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Automation+Engineer)](https://git.io/typing-svg)
