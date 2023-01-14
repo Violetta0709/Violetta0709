@@ -1,6 +1,6 @@
 
 ### Hi there! I'm Violetta 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+QA+Automation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Automation+Engineer)](https://git.io/typing-svg)
 
 ### Tools and technologies:
 <p  align="left">
