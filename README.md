@@ -13,6 +13,8 @@
   <code><img width="5%" title="Junit5" src="./images/Junit5.svg"></code>
   <code><img width="5%" title="Selenoid" src="./images/Selenoid.svg"></code>
   <code><img width="5%" title="Rest Assured" src="./images/RestAssured.svg"></code>
+  <code><img width="5%" title="Rest Assured" src="./images/postman.svg"></code>
+  <code><img width="5%" title="Rest Assured" src="./images/swagger.svg"></code>
   <code><img width="5%" title="Docker" src="./images/docker.png"></code>
   <code><img width="5%" title="Browserstack" src="./images/Browserstack.svg"></code>
   <code><img width="5%" title="Android Studio" src="./images/Android-studio.svg"></code>
