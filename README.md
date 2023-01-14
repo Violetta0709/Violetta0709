@@ -39,7 +39,7 @@
   
 </p>
 
-### Examples of test automation projects (Web, API and mobile tests):
+### Examples of test automation projects (Web/ API/ Mobile tests):
 
 Key facts about the projects:
 - [x] `Page Object` with steps using `Chain of Invocations`
