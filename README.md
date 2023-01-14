@@ -32,7 +32,7 @@
 
 Key facts about the project:
 - [x] `Page Object` with steps using `Chain of Invocations`
-- [x] Test data generating with `Faker` library
+- [x] Test data generating with `Java Faker` library
 - [x] Parametrized tests
 - [x] Parametrized build
 - [x] Different configuration files for test running depending on build parameters
@@ -40,7 +40,7 @@ Key facts about the project:
 - [x] Using `Lombok` for models for API tests
 - [x] Objects serialization/deserialization for API requests/responses using `Jackson`
 - [x] Using request/response specifications for API tests
-- [x] Custom Allure listener for API requests/responses logging
+- [x] Custom Allure listener for clear API requests/responses logging
 - [x] `Allure TestOps` integration
 - [x] Autotests as test documentation
 - [x] `Github webhooks` on each push to trigger `Jenkins` build
@@ -48,7 +48,7 @@ Key facts about the project:
 - [x] Parallel execution
 
 
-### Some more information:
+### Some more information about me:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Violetta0709&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Violetta0709&theme=solarized_dark)
