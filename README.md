@@ -41,8 +41,11 @@
 
 ### My test automation projects (Web/ API/ Mobile tests):
 
-### :heavy_check_mark: autotests for mobile Wikipedia app
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=mobile-tests)](https://github.com/Violetta0709/mobile-tests)
+### :heavy_check_mark: autotests for SberLogistic project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=SberLogistic)](https://github.com/Violetta0709/SberLogistic)
+
+### :heavy_check_mark: autotests for Wikipedia mobile app
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=Mobile-tests)](https://github.com/Violetta0709/mobile-tests)
 
 Key facts about the projects:
 - [x] `Page Object` with steps using `Chain of Invocations`
