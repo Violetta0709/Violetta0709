@@ -59,7 +59,6 @@ Key facts about the projects:
 - [x] Using request/response specifications for API tests
 - [x] Custom Allure listener for clear API requests/responses logging
 - [x] `Allure TestOps` integration
-- [x] Autotests as test documentation
 - [x] `Github webhooks` on each push to trigger `Jenkins` build
 - [x] `Jira` integration
 - [x] Parallel execution
