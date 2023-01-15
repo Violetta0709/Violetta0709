@@ -47,6 +47,10 @@
 ### :heavy_check_mark: autotests for Wikipedia mobile app
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=Mobile-tests)](https://github.com/Violetta0709/mobile-tests)
 
+### :heavy_check_mark: API tests of reqres.in
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=API-tests)](https://github.com/Violetta0709/API-tests)
+
+
 Key facts about the projects:
 - [x] `Page Object` with steps using `Chain of Invocations`
 - [x] Test data generating with `Java Faker` library
