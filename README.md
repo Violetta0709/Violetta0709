@@ -42,13 +42,13 @@
 ### My test automation projects (Web/ API/ Mobile tests):
 
 ### :heavy_check_mark: autotests for SberLogistic project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=SberLogistic)](https://github.com/Violetta0709/SberLogistic)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Violetta0709&repo=SberLogistic)](https://github.com/Violetta0709/SberLogistic)
 
 ### :heavy_check_mark: autotests for Wikipedia mobile app
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=Mobile-tests)](https://github.com/Violetta0709/mobile-tests)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Violetta0709&repo=Mobile-tests)](https://github.com/Violetta0709/mobile-tests)
 
 ### :heavy_check_mark: API tests of reqres.in
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Violetta0709&repo=API-tests)](https://github.com/Violetta0709/API-tests)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Violetta0709&repo=API-tests)](https://github.com/Violetta0709/API-tests)
 
 
 Key facts about the projects:
